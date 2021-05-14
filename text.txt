@@ -1,0 +1,268 @@
+Kevin
+ 
+Paterson
+ 
+Software
+ 
+Engineer
+ 
+Contact
+ 
+kevin.pater@gmail.com
+ 
+1
+-
+202
+-
+555
+-
+0135
+ 
+Hayward, California
+ 
+linkedin.com/in/kevin
+ 
+Summary
+ 
+A senior professional software engineer with 12 years of experience in application 
+design and development with an 
+innovative concept to the next evolutionary 
+phase.
+ 
+ 
+Having strong communication, leadership, and technical background. I am 
+driven by roles that will leverage my strengths in a DevOps or Engineering capacity for 
+a mutually rewarding experience.
+ 
+Experience
+ 
+SOFTWARE
+ 
+ENGINEER
+ 
+
+ 
+Team
+ 
+Lead
+ 
+Microsoft Corporation 
+
+ 
+Redmond, Washington
+ 
+
+ 
+Developed .NET code for publishing and consuming messages using RabbitMQ.
+ 
+
+ 
+Developed deployment scripts from Git repository
+ 
+to GCP App Engine.
+ 
+
+ 
+Developed
+ 
+and deployed Docker containers
+ 
+on Kubernetes.
+ 
+
+ 
+Implemented the ETL process to migrate
+ 
+legacy data to SQL database.
+ 
+
+ 
+Defined the data storage strategy and implementation roadmaps.
+ 
+
+ 
+
+ 
+
+ 
+Advised and evaluated data 
+retention and
+ 
+governance using cloud technologies.
+ 
+Sr.
+ 
+SOFTWARE
+ 
+DEVELOPER
+ 
+Deloitte 
+
+ 
+London, UK
+ 
+
+ 
+Designed REST Web Service in C# and Java using Layer pattern.
+ 
+
+ 
+Defined SOAP Web Services using Postman and Fiddler.
+ 
+
+ 
+Built
+ 
+containerized
+ 
+web servers, load balancers and DNS using Docker.
+ 
+
+ 
+Developed automation scripts using Powershell, VBScript and Java.
+ 
+
+ 
+Designed schemas for Oracle, SQL and mySQL servers.
+ 
+
+ 
+Installed, configured OpenSSL and managed SSL certificates for authe
+ntication.
+ 
+
+ 
+Configured cryptography ciphers using DES3, Blowfish and OpenPGP.
+ 
+SOFTWARE
+ 
+DEVELOPER
+ 
+Salesforce 
+
+ 
+San Francisco, California
+ 
+
+ 
+Developed embedded
+ 
+application to poll RF wireless data using Visual C++.
+ 
+
+ 
+Deployed and integrated web portal into existin
+g CMS platform.
+ 
+
+ 
+Developed workflow and self
+-
+service for the automated recycling program.
+ 
+
+ 
+Developed web applications to qualify individuals for insurance.
+ 
+
+ 
+Developed a business rules engine to filter criteria from web forms.
+ 
+
+ 
+The developed server application 
+to trigger processing on OCR events.
+ 
+
+ 
+Developed a single
+-
+page web application to capture survey results in a database.
+ 
+Skills
+ 
+
+ 
+Shell Scripting
+ 
+
+ 
+AWS
+ 
+
+ 
+Microsoft Azure
+ 
+
+ 
+Docker
+ 
+
+ 
+Kubernetes
+ 
+
+ 
+Databases
+ 
+
+ 
+Google Cloud (GCP)
+ 
+
+ 
+Web Services
+ 
+
+ 
+Microsoft SQL server
+ 
+
+ 
+ASP.NET 
+(C#)
+ 
+
+ 
+JavaScript
+ 
+
+ 
+Testing
+ 
+Education
+ 
+MASTER
+ 
+OF
+ 
+COMPUTER
+ 
+SCIENCE
+ 
+Stevens Institute of Technology 
+
+ 
+New Jersey
+ 
+BACHELOR
+ 
+OF
+ 
+COMPUTER
+ 
+SCIENCE
+ 
+Georgia State University 
+
+ 
+Atlanta, Georgia
+ 
+Certification
+ 
+Azure Online Certification
+ 
+Google Cloud Platform 
+certification
+ 
+ 
